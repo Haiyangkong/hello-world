@@ -1,3 +1,3 @@
 # hello-world
 my first github
-i love coffee: ,pizza:, and dance:.
+i love :coffee: ,:pizza:, and :dance:.
